@@ -1,4 +1,4 @@
-# My Git Resume
+# My Resume
 
 I'm abhinav kashyap a passionate and dedicated javascript developer with a strong background in building web applications and APIs. This repository serves as my digital resume, showcasing my skills, experience, and projects. Below, you'll find an overview of my qualifications and accomplishments.
 
